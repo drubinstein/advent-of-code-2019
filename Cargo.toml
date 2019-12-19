@@ -1,0 +1,8 @@
+[package]
+name = "advent_of_code_2019"
+version = "0.1.0"
+authors = ["David"]
+
+[[bin]]
+name = "day1"
+path = "day1/day1.rs"
