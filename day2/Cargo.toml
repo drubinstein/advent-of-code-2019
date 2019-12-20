@@ -1,0 +1,11 @@
+[package]
+name = "advent_of_code_2019_day2"
+version = "0.1.0"
+authors = ["David"]
+
+[[bin]]
+name = "day2"
+path = "day2.rs"
+
+[dependencies]
+itertools = "0.8.2"
