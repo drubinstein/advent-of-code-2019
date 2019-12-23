@@ -1,0 +1,15 @@
+[package]
+name = "advent_of_code_2019_day7"
+version = "0.1.0"
+authors = ["David"]
+
+[[bin]]
+name = "day7"
+path = "day7.rs"
+
+[[bin]]
+name = "part2"
+path = "day7_part2.rs"
+
+[dependencies]
+permute = "0.1.0"
