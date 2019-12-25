@@ -1,0 +1,11 @@
+[package]
+name = "advent_of_code_2019_day10"
+version = "0.1.0"
+authors = ["David"]
+
+[[bin]]
+name = "day10"
+path = "day10.rs"
+
+[dependencies]
+num = "0.2"
